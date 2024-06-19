@@ -1,0 +1,77 @@
+ID,Name,Sex,Age,Height,Weight,IMC,Team,NOC,Year,Season,City,City_in_Country,Sport,Event,Medal,proba_No,proba_Yes,prediction
+,Mélody Julien,F,25,168,49.0,17.36,France,FRA,2024,Summer,Paris,True,Athletics,Marathon,,0.5692851767086935,0.43071482329130617,No
+,Mekdes Woldu,F,31,164,43.0,15.99,France,FRA,2024,Summer,Paris,True,Athletics,Marathon,,0.5675634819032133,0.43243651809678646,No
+,Méline Rollin,F,25,169,51.0,17.86,France,FRA,2024,Summer,Paris,True,Athletics,Marathon,,0.5635711810522444,0.4364288189477556,No
+,Manon Trapp,F,23,160,49.0,19.14,France,FRA,2024,Summer,Paris,True,Athletics,Marathon,,0.5675393623463588,0.43246063765364073,No
+,Mathilde Gros,F,25,175,73.0,23.84,France,FRA,2024,Summer,Paris,True,Cycling,Sprint,,0.48707818778129186,0.512921812218708,No
+,Mathilde Gros,F,25,175,73.0,23.84,France,FRA,2024,Summer,Paris,True,Cycling,Keirin,,0.44149964675289577,0.5585003532471046,No
+,Marie-Divine Kouamé,F,21,177,76.0,24.26,France,FRA,2024,Summer,Paris,True,Cycling,Sprint,,0.47814455807813727,0.5218554419218626,No
+,Marie-Divine Kouamé,F,21,177,76.0,24.26,France,FRA,2024,Summer,Paris,True,Cycling,Keirin,,0.4579832209563857,0.5420167790436143,No
+,Rayan Hélal,M,25,181,92.0,28.08,France,FRA,2024,Summer,Paris,True,Cycling,Keirin,,0.39230129510349127,0.6076987048965083,Yes
+,Juliette Labous,F,25,165,54.0,19.83,France,FRA,2024,Summer,Paris,True,Cycling,"Road Race, Individual",,0.5973923254159953,0.4026076745840044,No
+,Juliette Labous,F,25,165,54.0,19.83,France,FRA,2024,Summer,Paris,True,Cycling,Individual Time Trial,,0.4958671845382014,0.5041328154617986,No
+,Audrey Cordon-Ragot,F,34,170,60.0,20.76,France,FRA,2024,Summer,Paris,True,Cycling,"Road Race, Individual",,0.6205264325140035,0.3794735674859964,No
+,Audrey Cordon-Ragot,F,34,170,60.0,20.76,France,FRA,2024,Summer,Paris,True,Cycling,Individual Time Trial,,0.5071056374269812,0.4928943625730187,No
+,Victoire Berteau,F,23,165,57.0,20.94,France,FRA,2024,Summer,Paris,True,Cycling,"Road Race, Individual",,0.6018345493205314,0.3981654506794684,No
+,Pauline Ferrand-Prévôt,F,32,165,52.0,19.1,France,FRA,2024,Summer,Paris,True,Cycling,"Mountainbike, Cross-Country",,0.5230449465865543,0.47695505341344585,No
+,Loana Lecomte,F,24,162,52.0,19.81,France,FRA,2024,Summer,Paris,True,Cycling,"Mountainbike, Cross-Country",,0.5120324821095507,0.4879675178904494,No
+,Victor Koretzky,M,29,180,69.0,21.3,France,FRA,2024,Summer,Paris,True,Cycling,"Mountainbike, Cross-Country",,0.483163739795093,0.516836260204907,No
+,Jordan Sarrou,M,31,180,67.0,20.68,France,FRA,2024,Summer,Paris,True,Cycling,"Mountainbike, Cross-Country",,0.49145295022955393,0.5085470497704458,No
+,Dorian Coninx,M,30,181,70.0,21.37,France,FRA,2024,Summer,Paris,True,Triathlon,Olympic Distance,,0.47778162421478554,0.5222183757852145,No
+,Pierre Le Corre,M,34,177,67.0,21.39,France,FRA,2024,Summer,Paris,True,Triathlon,Olympic Distance,,0.5215890705861351,0.47841092941386504,No
+,Léo Bergère,M,27,176,63.0,20.34,France,FRA,2024,Summer,Paris,True,Triathlon,Olympic Distance,,0.4827708933295596,0.5172291066704403,No
+,Cassandre Beaugrand,F,27,177,54.0,17.24,France,FRA,2024,Summer,Paris,True,Triathlon,Olympic Distance,,0.5029269904928777,0.4970730095071223,No
+,Pierre Gouzou,M,25,158,43.0,17.22,France,FRA,2024,Summer,Paris,True,Trampolining,Individual,,0.47976105925146023,0.5202389407485399,No
+,Léa Labrousse,F,27,155,50.0,20.81,France,FRA,2024,Summer,Paris,True,Trampolining,Individual,,0.47043766795388575,0.5295623320461144,No
+,Djamili Dini Aboudou-Moindze,M,28,181,107.0,32.66,France,FRA,2024,Summer,Paris,True,Boxing,Super-Heavyweight,,0.38807094654480356,0.6119290534551963,Yes
+,Billal Bennama,M,25,175,51.0,16.65,France,FRA,2024,Summer,Paris,True,Boxing,Flyweight,,0.37769393632351705,0.622306063676483,Yes
+,Wassila Lkhadiri,F,28,160,50.0,19.53,France,FRA,2024,Summer,Paris,True,Boxing,Flyweight,,0.3844967669137532,0.615503233086247,Yes
+,Davina Michel,F,26,183,75.0,22.4,France,FRA,2024,Summer,Paris,True,Boxing,Middleweight,,0.3995447876468269,0.6004552123531735,Yes
+,Estelle Mossely,F,31,168,60.0,21.26,France,FRA,2024,Summer,Paris,True,Boxing,Lightweight,,0.4164750806558425,0.5835249193441577,Yes
+,Sofiane Oumiha,M,29,178,63.5,20.04,France,FRA,2024,Summer,Paris,True,Boxing,Lightweight,,0.4208200402242366,0.5791799597757633,Yes
+,Makan Traoré,M,23,184,71.0,20.97,France,FRA,2024,Summer,Paris,True,Boxing,Welterweight,,0.3919016968575601,0.6080983031424398,Yes
+,Adrien Bart,M,32,184,92.0,27.17,France,FRA,2024,Summer,Paris,True,Canoeing,"Canadian Singles, 1,000 metres",,0.38596774997273386,0.6140322500272659,Yes
+,Maxime Beaumont,M,42,191,92.0,25.22,France,FRA,2024,Summer,Paris,True,Canoeing,"Kayak Singles, 1,000 metres",,0.5206356517343578,0.47936434826564217,No
+,Titouan Castryck,M,19,186,68.0,19.66,France,FRA,2024,Summer,Paris,True,Canoeing,"Kayak Singles, Slalom",,0.5069538544359592,0.4930461455640408,No
+,Marjorie Delassus,F,26,157,55.0,22.31,France,FRA,2024,Summer,Paris,True,Canoeing,"Canadian Singles, Slalom",,0.48773768958236835,0.5122623104176318,No
+,Eugénie Dorange,F,26,169,68.0,23.81,France,FRA,2024,Summer,Paris,True,Canoeing,"Canadian Singles, 200 metres",,0.4573802954791755,0.5426197045208249,No
+,Nicolas Gestin,M,24,183,72.0,21.5,France,FRA,2024,Summer,Paris,True,Canoeing,"Canadian Singles, Slalom",,0.4299657336415741,0.5700342663584261,No
+,Manon Hostens,F,30,168,64.0,22.68,France,FRA,2024,Summer,Paris,True,Canoeing,"Kayak Singles, 500 metres",,0.4896202894687107,0.5103797105312893,No
+,Loïc Léonard,M,28,178,76.0,23.99,France,FRA,2024,Summer,Paris,True,Canoeing,"Canadian Singles, 1,000 metres",,0.43850688070729776,0.5614931192927024,No
+,Vanina Paoletti,F,26,163,63.0,23.71,France,FRA,2024,Summer,Paris,True,Canoeing,"Kayak Singles, 500 metres",,0.49199597706695897,0.508004022933041,No
+,Camille Prigent,F,26,161,53.0,20.45,France,FRA,2024,Summer,Paris,True,Canoeing,"Kayak Singles, Slalom",,0.4774569947414754,0.5225430052585248,No
+,Gwendal Bisch,M,25,180,72.0,22.22,France,FRA,2024,Summer,Paris,True,Diving,Springboard,,0.4594985445521875,0.5405014554478124,No
+,Jules Bouyer,M,21,180,78.0,24.07,France,FRA,2024,Summer,Paris,True,Diving,Springboard,,0.4567646611194788,0.5432353388805213,No
+,Souleyman Alaphilippe,M,20,183,68.0,20.31,France,FRA,2024,Summer,Paris,True,Taekwondo,Heavyweight,,0.4282334261179878,0.5717665738820124,No
+,Althéa Laurin,F,22,184,73.0,21.56,France,FRA,2024,Summer,Paris,True,Taekwondo,Heavyweight,,0.41911003883844494,0.5808899611615552,Yes
+,Cyrian Ravet,M,21,177,58.0,18.51,France,FRA,2024,Summer,Paris,True,Taekwondo,Featherweight,,0.42197302106607115,0.5780269789339292,Yes
+,Magda Wiet-Hénin,F,28,173,65.0,21.72,France,FRA,2024,Summer,Paris,True,Taekwondo,Heavyweight,,0.43586140330392664,0.5641385966960737,No
+,Koumba Larroque,F,25,172,68.0,22.99,France,FRA,2024,Summer,Paris,True,Wrestling,"Middleweight, Freestyle",,0.41611864589304826,0.583881354106952,Yes
+,Océane Cassignol,F,24,168,64.0,22.68,France,FRA,2024,Summer,Paris,True,Swimming,10 kilometres Open Water,,0.4688964611469888,0.5311035388530114,No
+,Caroline Jouisse,F,30,176,64.0,20.66,France,FRA,2024,Summer,Paris,True,Swimming,10 kilometres Open Water,,0.451131799689866,0.5488682003101343,No
+,Marc-Antoine Olivier,M,27,184,63.0,18.61,France,FRA,2024,Summer,Paris,True,Swimming,10 kilometres Open Water,,0.4912962520100505,0.5087037479899494,No
+,Logan Fontaine,M,25,184,75.0,22.15,France,FRA,2024,Summer,Paris,True,Swimming,10 kilometres Open Water,,0.42929351886127526,0.5707064811387248,No
+,Clarisse Agbégnénou,F,31,164,63.0,23.42,France,FRA,2024,Summer,Paris,True,Judo,Middleweight,,0.4626408331747146,0.5373591668252856,No
+,Shirine Boukli,F,25,156,48.0,19.72,France,FRA,2024,Summer,Paris,True,Judo,Extra-Lightweight,,0.46642212740771394,0.5335778725922863,No
+,Amandine Buchard,F,28,160,52.0,20.31,France,FRA,2024,Summer,Paris,True,Judo,Half-Lightweight,,0.4501380851780961,0.549861914821904,No
+,Aurélien Diesse,M,26,190,100.0,27.7,France,FRA,2024,Summer,Paris,True,Judo,Half-Heavyweight,,0.35753726087882937,0.6424627391211705,Yes
+,Sarah-Léonie Cysique,F,25,163,57.0,21.45,France,FRA,2024,Summer,Paris,True,Judo,Lightweight,,0.4059103040868615,0.5940896959131388,Yes
+,Romane Dicko,F,24,180,78.0,24.07,France,FRA,2024,Summer,Paris,True,Judo,Heavyweight,,0.4118075474871633,0.5881924525128365,Yes
+,Alpha Djalo,M,27,170,81.0,28.03,France,FRA,2024,Summer,Paris,True,Judo,Light-Heavyweight,,0.3743295865853082,0.6256704134146918,Yes
+,Joan-Benjamin Gaba,M,23,170,73.0,25.26,France,FRA,2024,Summer,Paris,True,Judo,Lightweight,,0.41531711220202694,0.5846828877979731,Yes
+,Marie-Eve Gahié,F,27,176,70.0,22.6,France,FRA,2024,Summer,Paris,True,Judo,Half-Middleweight,,0.41422332430940095,0.585776675690599,Yes
+,Madeleine Malonga,F,30,182,78.0,23.55,France,FRA,2024,Summer,Paris,True,Judo,Half-Heavyweight,,0.4078187445214472,0.592181255478553,Yes
+,Luka Mkheidze,M,28,160,60.0,23.44,France,FRA,2024,Summer,Paris,True,Judo,Extra-Lightweight,,0.4454186162311251,0.554581383768875,No
+,Maxime-Gaël N’Gayap-Hambou,M,22,189,90.0,25.2,France,FRA,2024,Summer,Paris,True,Judo,Half-Middleweight,,0.3812873000705278,0.6187126999294722,Yes
+,Teddy Riner,M,35,204,139.0,33.4,France,FRA,2024,Summer,Paris,True,Judo,Heavyweight,,0.4085647219597844,0.5914352780402152,Yes
+,Walide Khyar,M,29,171,59.0,20.18,France,FRA,2024,Summer,Paris,True,Judo,Half-Lightweight,,0.4525764496372766,0.5474235503627234,No
+,Sara Balzer,F,29,177,66.0,21.07,France,FRA,2024,Summer,Paris,True,Fencing,"Sabre, Individual",,0.5479958491037673,0.45200415089623247,No
+,Cécilia Berder,F,34,174,67.0,22.13,France,FRA,2024,Summer,Paris,True,Fencing,"Sabre, Individual",,0.5666249894473774,0.4333750105526224,No
+,Manon Apithy-Brunet,F,28,170,55.0,19.03,France,FRA,2024,Summer,Paris,True,Fencing,"Sabre, Individual",,0.5587006463093889,0.44129935369061096,No
+,Enzo Lefort,M,32,190,77.0,21.33,France,FRA,2024,Summer,Paris,True,Fencing,"Foil, Individual",,0.5775823378700915,0.42241766212990856,No
+,Julien Mertine,M,35,185,80.0,23.37,France,FRA,2024,Summer,Paris,True,Fencing,"Foil, Individual",,0.6006958367510495,0.3993041632489507,No
+,Maxime Pauty,M,30,178,85.0,26.83,France,FRA,2024,Summer,Paris,True,Fencing,"Foil, Individual",,0.5312466800640204,0.4687533199359797,No
+,Marie-Florence Candassamy,F,33,185,67.0,19.58,France,FRA,2024,Summer,Paris,True,Fencing,"epee, Individual",,0.6008501413129831,0.3991498586870167,No
+,Coraline Vitalis,F,29,179,72.0,22.47,France,FRA,2024,Summer,Paris,True,Fencing,"epee, Individual",,0.5830392847321436,0.4169607152678563,No
+,Boladé Apithy,M,38,180,80.0,24.69,France,FRA,2024,Summer,Paris,True,Fencing,"Sabre, Individual",,0.5657708358648232,0.434229164135177,No
+,Yannick Borel,M,35,196,97.0,25.25,France,FRA,2024,Summer,Paris,True,Fencing,"epee, Individual",,0.566311924600967,0.43368807539903315,No
